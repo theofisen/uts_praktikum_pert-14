@@ -1,4 +1,4 @@
-name = "INF-EXPRESS"
+name = "Ghost"
 version = "1.0.0"
 database_name = "db.json"
 
@@ -11,8 +11,8 @@ anggota_kelompok = [
 ]
 
 class Option:
-    opt1 = "Lihat Daftar Kiriman"
-    opt2 = "Tambah Kiriman"
-    opt3 = "Update Status"
-    opt4 = "Hapus Kiriman"
-    opt5 = "Cari Kiriman"
+    opt1 = "Liaat Daftar Kiriman"
+    opt2 = "Tambax Kiriman"
+    opt3 = "Uppate Status"
+    opt4 = "Hapuq Kiriman"
+    opt5 = "Carl Kiriman"
